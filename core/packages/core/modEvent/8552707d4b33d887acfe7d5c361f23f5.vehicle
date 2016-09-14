@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'f4b9dcd818ccadc38ab738d7b2c1cc5c',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '8552707d4b33d887acfe7d5c361f23f5',
+  'native_key' => 'OnUserAddToGroup',
+  'object' => '{"name":"OnUserAddToGroup","service":1,"groupname":"User Groups"}',
+);

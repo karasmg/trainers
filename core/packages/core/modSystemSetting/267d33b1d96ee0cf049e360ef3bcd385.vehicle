@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'aadbbf07f1a6bfbd1a2c522108d34a20',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '267d33b1d96ee0cf049e360ef3bcd385',
+  'native_key' => 'mail_smtp_timeout',
+  'object' => '{"key":"mail_smtp_timeout","value":"10","xtype":"textfield","namespace":"core","area":"mail","editedon":null}',
+);

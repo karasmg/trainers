@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'e1eb17344ef2bce02005ddc37a425407',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => 'dd8b474529f080cc35ba8b3c64c15081',
+  'native_key' => 'OnResourceUndelete',
+  'object' => '{"name":"OnResourceUndelete","service":1,"groupname":"Resources"}',
+);

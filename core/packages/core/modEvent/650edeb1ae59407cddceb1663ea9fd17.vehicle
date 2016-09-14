@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bb0135745e0653f01ca51c1ca78dc9d4',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '650edeb1ae59407cddceb1663ea9fd17',
+  'native_key' => 'OnTempFormDelete',
+  'object' => '{"name":"OnTempFormDelete","service":1,"groupname":"Templates"}',
+);

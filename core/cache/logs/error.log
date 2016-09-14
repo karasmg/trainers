@@ -1,0 +1,381 @@
+[2016-09-06 22:51:14] (ERROR @ C:\OpenServer\domains\modxrevo\core\xpdo\om\xpdoobject.class.php : 811) modTemplateVarTemplate: Attempt to set NOT NULL field rank to NULL
+[2016-09-10 19:56:26] (ERROR @ C:\OpenServer\domains\modxrevo\core\xpdo\om\xpdoobject.class.php : 811) modTemplateVarTemplate: Attempt to set NOT NULL field rank to NULL
+[2016-09-10 19:58:33] (ERROR @ C:\OpenServer\domains\modxrevo\core\model\modx\modcachemanager.class.php : 320) Could not retrieve data to cache for resource 3
+[2016-09-11 13:44:59] (ERROR @ C:\OpenServer\domains\modxrevo\core\model\modx\modcachemanager.class.php : 344) Error caching lexicon topic lexicon/en/core/source
+[2016-09-11 14:34:33] (ERROR @ C:\OpenServer\domains\modxrevo\core\model\modx\processors\element\plugin\update.class.php : 67) Системные события плагина не найдены.Array
+(
+    [name] => OnDocFormPrerender
+    [service] => 1
+    [groupname] => Resources
+    [enabled] => 
+    [priority] => 
+    [propertyset] => 
+    [menu] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Обновить системные события плагина
+                    [handler] => this.updateEvent
+                )
+
+        )
+
+    [plugin] => 1
+    [event] => OnDocFormPrerender
+)
+
+[2016-09-11 14:34:33] (ERROR @ C:\OpenServer\domains\modxrevo\core\model\modx\processors\element\plugin\update.class.php : 67) Системные события плагина не найдены.Array
+(
+    [name] => OnPropertySetSave
+    [service] => 1
+    [groupname] => Property Sets
+    [enabled] => 
+    [priority] => 
+    [propertyset] => 
+    [menu] => Array
+        (
+            [0] => Array
+                (
+                    [text] => Обновить системные события плагина
+                    [handler] => this.updateEvent
+                )
+
+        )
+
+    [plugin] => 1
+    [event] => OnPropertySetSave
+)
+
+[2016-09-11 14:46:20] (ERROR @ C:\OpenServer\domains\modxrevo\core\cache\includes\elements\modplugin\1.include.cache.php : 3) Array
+(
+    [id] => 8
+    [type] => document
+    [contentType] => text/html
+    [pagetitle] => jkl
+    [longtitle] => 
+    [description] => 
+    [alias] => jkl
+    [link_attributes] => 
+    [published] => 
+    [pub_date] => 0
+    [unpub_date] => 0
+    [parent] => 0
+    [isfolder] => 
+    [introtext] => 
+    [content] => 
+    [richtext] => 1
+    [template] => 1
+    [menuindex] => 3
+    [searchable] => 1
+    [cacheable] => 1
+    [createdby] => 1
+    [createdon] => 2016-09-11 14:46:20
+    [editedby] => 0
+    [editedon] => 0
+    [deleted] => 
+    [deletedon] => 0
+    [deletedby] => 0
+    [publishedon] => 0
+    [publishedby] => 0
+    [menutitle] => 
+    [donthit] => 
+    [privateweb] => 
+    [privatemgr] => 
+    [content_dispo] => 0
+    [hidemenu] => 
+    [class_key] => modDocument
+    [context_key] => web
+    [content_type] => 1
+    [uri] => 
+    [uri_override] => 0
+    [hide_children_in_tree] => 0
+    [show_in_tree] => 1
+    [properties] => 
+    [create-resource-token] => 57d543f41b1678.29225727
+    [reloaded] => 0
+    [parent-original] => 0
+    [parent-cmb] => 
+    [syncsite] => 1
+    [ta] => 
+    [action] => resource/create
+    [resource_groups] => []
+)
+
+[2016-09-11 14:47:12] (ERROR @ C:\OpenServer\domains\modxrevo\core\cache\includes\elements\modplugin\1.include.cache.php : 3) Array
+(
+    [id] => 8
+    [type] => document
+    [contentType] => text/html
+    [pagetitle] => jkl
+    [longtitle] => 
+    [description] => 
+    [alias] => jkl
+    [link_attributes] => 
+    [published] => 
+    [pub_date] => 0
+    [unpub_date] => 0
+    [parent] => 0
+    [isfolder] => 
+    [introtext] => 
+    [content] => 
+    [richtext] => 1
+    [template] => 1
+    [menuindex] => 3
+    [searchable] => 1
+    [cacheable] => 1
+    [createdby] => 1
+    [createdon] => 2016-09-11 14:46:20
+    [editedby] => 1
+    [editedon] => 2016-09-11 14:47:12
+    [deleted] => 
+    [deletedon] => 0
+    [deletedby] => 0
+    [publishedon] => 0
+    [publishedby] => 0
+    [menutitle] => 
+    [donthit] => 
+    [privateweb] => 
+    [privatemgr] => 
+    [content_dispo] => 0
+    [hidemenu] => 
+    [class_key] => modDocument
+    [context_key] => web
+    [content_type] => 1
+    [uri] => 
+    [uri_override] => 0
+    [hide_children_in_tree] => 0
+    [show_in_tree] => 1
+    [properties] => 
+    [create-resource-token] => 57d54410e0f644.01199091
+    [reloaded] => 0
+    [parent-original] => 0
+    [parent-cmb] => 
+    [syncsite] => 1
+    [ta] => 
+    [action] => resource/update
+    [resource_groups] => []
+)
+
+[2016-09-11 14:48:57] (ERROR @ C:\OpenServer\domains\modxrevo\core\cache\includes\elements\modplugin\1.include.cache.php : 3) Array
+(
+    [id] => 8
+    [type] => document
+    [contentType] => text/html
+    [pagetitle] => jkl
+    [longtitle] => 
+    [description] => 
+    [alias] => jkl
+    [link_attributes] => 
+    [published] => 
+    [pub_date] => 0
+    [unpub_date] => 0
+    [parent] => 0
+    [isfolder] => 
+    [introtext] => 
+    [content] => 
+    [richtext] => 1
+    [template] => 1
+    [menuindex] => 3
+    [searchable] => 1
+    [cacheable] => 1
+    [createdby] => 1
+    [createdon] => 2016-09-11 14:46:20
+    [editedby] => 1
+    [editedon] => 2016-09-11 14:48:57
+    [deleted] => 
+    [deletedon] => 0
+    [deletedby] => 0
+    [publishedon] => 0
+    [publishedby] => 0
+    [menutitle] => 
+    [donthit] => 
+    [privateweb] => 
+    [privatemgr] => 
+    [content_dispo] => 0
+    [hidemenu] => 
+    [class_key] => modDocument
+    [context_key] => web
+    [content_type] => 1
+    [uri] => 
+    [uri_override] => 0
+    [hide_children_in_tree] => 0
+    [show_in_tree] => 1
+    [properties] => 
+    [create-resource-token] => 57d54444b32e61.48887747
+    [reloaded] => 0
+    [parent-original] => 0
+    [parent-cmb] => 
+    [syncsite] => 1
+    [ta] => 
+    [action] => resource/update
+    [resource_groups] => []
+)
+
+[2016-09-11 14:48:57] (ERROR @ C:\OpenServer\domains\modxrevo\core\model\modx\modx.class.php : 1611) [OnDocFormSave]jkl
+[2016-09-11 15:00:28] (ERROR @ C:\OpenServer\domains\modxrevo\core\cache\includes\elements\modplugin\1.include.cache.php : 3) Array
+(
+    [id] => 8
+    [type] => document
+    [contentType] => text/html
+    [pagetitle] => jkl
+    [longtitle] => 
+    [description] => 
+    [alias] => jkl
+    [link_attributes] => 
+    [published] => 
+    [pub_date] => 0
+    [unpub_date] => 0
+    [parent] => 0
+    [isfolder] => 
+    [introtext] => 
+    [content] => 
+    [richtext] => 1
+    [template] => 1
+    [menuindex] => 3
+    [searchable] => 1
+    [cacheable] => 1
+    [createdby] => 1
+    [createdon] => 2016-09-11 14:46:20
+    [editedby] => 1
+    [editedon] => 2016-09-11 15:00:28
+    [deleted] => 
+    [deletedon] => 0
+    [deletedby] => 0
+    [publishedon] => 0
+    [publishedby] => 0
+    [menutitle] => 
+    [donthit] => 
+    [privateweb] => 
+    [privatemgr] => 
+    [content_dispo] => 0
+    [hidemenu] => 
+    [class_key] => modDocument
+    [context_key] => web
+    [content_type] => 1
+    [uri] => 
+    [uri_override] => 0
+    [hide_children_in_tree] => 0
+    [show_in_tree] => 1
+    [properties] => 
+    [create-resource-token] => 57d5475686c687.72744217
+    [reloaded] => 0
+    [parent-original] => 0
+    [parent-cmb] => 
+    [syncsite] => 1
+    [ta] => 
+    [action] => resource/update
+    [resource_groups] => []
+)
+
+[2016-09-11 15:00:28] (ERROR @ C:\OpenServer\domains\modxrevo\core\model\modx\modx.class.php : 1611) [OnDocFormSave]jkl8
+[2016-09-11 15:07:34] (ERROR @ C:\OpenServer\domains\modxrevo\core\cache\includes\elements\modplugin\1.include.cache.php : 3) Array
+(
+    [id] => 8
+    [type] => document
+    [contentType] => text/html
+    [pagetitle] => jkl
+    [longtitle] => 
+    [description] => 
+    [alias] => jkl
+    [link_attributes] => 
+    [published] => 
+    [pub_date] => 0
+    [unpub_date] => 0
+    [parent] => 0
+    [isfolder] => 
+    [introtext] => 
+    [content] => 
+    [richtext] => 1
+    [template] => 1
+    [menuindex] => 3
+    [searchable] => 1
+    [cacheable] => 1
+    [createdby] => 1
+    [createdon] => 2016-09-11 14:46:20
+    [editedby] => 1
+    [editedon] => 2016-09-11 15:07:34
+    [deleted] => 
+    [deletedon] => 0
+    [deletedby] => 0
+    [publishedon] => 0
+    [publishedby] => 0
+    [menutitle] => 
+    [donthit] => 
+    [privateweb] => 
+    [privatemgr] => 
+    [content_dispo] => 0
+    [hidemenu] => 
+    [class_key] => modDocument
+    [context_key] => web
+    [content_type] => 1
+    [uri] => 
+    [uri_override] => 0
+    [hide_children_in_tree] => 0
+    [show_in_tree] => 1
+    [properties] => 
+    [create-resource-token] => 57d548ffeb9c35.05143149
+    [reloaded] => 0
+    [parent-original] => 0
+    [parent-cmb] => 
+    [syncsite] => 1
+    [ta] => 
+    [action] => resource/update
+    [resource_groups] => []
+)
+
+[2016-09-11 15:10:32] (ERROR @ C:\OpenServer\domains\modxrevo\core\cache\includes\elements\modplugin\1.include.cache.php : 3) Array
+(
+    [id] => 8
+    [type] => document
+    [contentType] => text/html
+    [pagetitle] => jkl
+    [longtitle] => 
+    [description] => 
+    [alias] => jkl
+    [link_attributes] => 
+    [published] => 
+    [pub_date] => 0
+    [unpub_date] => 0
+    [parent] => 0
+    [isfolder] => 
+    [introtext] => 
+    [content] => 
+    [richtext] => 1
+    [template] => 1
+    [menuindex] => 3
+    [searchable] => 1
+    [cacheable] => 1
+    [createdby] => 1
+    [createdon] => 2016-09-11 14:46:20
+    [editedby] => 1
+    [editedon] => 2016-09-11 15:10:32
+    [deleted] => 
+    [deletedon] => 0
+    [deletedby] => 0
+    [publishedon] => 0
+    [publishedby] => 0
+    [menutitle] => 
+    [donthit] => 
+    [privateweb] => 
+    [privatemgr] => 
+    [content_dispo] => 0
+    [hidemenu] => 
+    [class_key] => modDocument
+    [context_key] => web
+    [content_type] => 1
+    [uri] => 
+    [uri_override] => 0
+    [hide_children_in_tree] => 0
+    [show_in_tree] => 1
+    [properties] => 
+    [create-resource-token] => 57d549b323afb2.48068862
+    [reloaded] => 0
+    [parent-original] => 0
+    [parent-cmb] => 
+    [syncsite] => 1
+    [ta] => 
+    [action] => resource/update
+    [resource_groups] => []
+)
+
+[2016-09-13 12:27:39] (ERROR @ C:\OpenServer\domains\modxrevo\core\model\modx\modlexicon.class.php : 191) PHP warning: array_merge(): Argument #2 is not an array
